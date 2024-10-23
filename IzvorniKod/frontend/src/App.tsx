@@ -9,7 +9,7 @@ export const App = () => {
         This is our default page. All of the pages will be rendered inside this
         layout
       </p>
-      We will use our components like this one:
+      We will use our components like this one!:
       <Home />
       <Outlet />
     </div>
